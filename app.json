@@ -1,5 +1,6 @@
 {
     "name": "apollo",
     "version": "1.0",
-    "description": "Easily generate voiceovers for your videos."
+    "description": "Easily generate voiceovers for your videos.",
+    "app_link": "https://raw.githubusercontent.com/tobiasrasmsn/apollo_data/refs/heads/main/Apollo.exe"
 }
